@@ -165,7 +165,7 @@ To make things worse, as the application evolves, we need to get more data, from
 In this talk we'll use the Symfony's HttpClient, Messenger and Panther to build a crawler, first as a simple console application, then evolving to a distributed one.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/adielcristo/crawling-the-web-with-the-new-symfony-components)
 ~~Video~~
 
 By [Adiel Cristo](https://connect.symfony.com/profile/arcristo)  
